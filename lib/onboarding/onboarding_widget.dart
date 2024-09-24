@@ -68,7 +68,7 @@ class _OnboardingWidgetState extends State<OnboardingWidget> {
                         mainAxisSize: MainAxisSize.max,
                         children: [
                           Text(
-                            'Profile',
+                            'Profile :D',
                             style: FlutterFlowTheme.of(context)
                                 .headlineLarge
                                 .override(
